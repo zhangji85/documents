@@ -1,0 +1,5 @@
+# next.js build output
+.next
+
+#secretKeyConf
+secretKeyConf.js

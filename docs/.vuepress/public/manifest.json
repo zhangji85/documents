@@ -1,0 +1,15 @@
+{
+  "name": "ZHNAG JI BOLG",
+  "short_name": "ZANG JI",
+  "description": "zhangji's blog",
+  "icons": [
+    {
+      "src": "/zj.jpg",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "background": "#2196f3",
+  "display": "standalone",
+  "start_url": "index.html"
+}

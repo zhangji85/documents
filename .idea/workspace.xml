@@ -12,12 +12,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1UB9nRnVlV6hRY8jPN283gE8PZq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="E:/lianqiao-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZhangJi\Desktop\documents\docs\.vuepress\public" />
       <recent name="C:\Users\ZhangJi\Desktop\documents\docs\javascript" />
     </key>
   </component>
@@ -46,7 +49,9 @@
       <workItem from="1574819292257" duration="1377000" />
       <workItem from="1574831791754" duration="2896000" />
       <workItem from="1574863951344" duration="5692000" />
-      <workItem from="1574901466297" duration="1058000" />
+      <workItem from="1574901466297" duration="17336000" />
+      <workItem from="1574988132650" duration="53000" />
+      <workItem from="1575097958290" duration="5279000" />
     </task>
     <servers />
   </component>
